@@ -9,7 +9,7 @@ Since this is a custom network, the best way to actually get it up and running o
 
 The submission script is called **run_script.sh**; here is a sample use of the code
 
-sbatch run_script.sh $TRAINING_PYTHON_FILE $OUTPUT_DIRECTORY
+`sbatch run_script.sh $TRAINING_PYTHON_FILE $OUTPUT_DIRECTORY`
 
 Note- you will need the region.txt file in the working directory for the script to work.
 
