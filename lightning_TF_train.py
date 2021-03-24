@@ -5,9 +5,9 @@ import torch
 import torch.optim as optim
 import torch.nn as nn
 from data_generator import TFData, dataset_split_loader
-from network_model import TFNet
+from lightning_network_model import TFNet
 from roc_pr import ROC_PR
-import torch.autograd.profiler as profiler
+import pytorch_lightning as pl
 import time
 
 
@@ -176,8 +176,10 @@ def main():
     train_loader, val_loader = dataset_split_loader(seq_data, batch, 0.1)
 
     # train the model
-    TF_train(epoch, lr, nTF, frag_len, train_loader, val_loader, output_folder)
-
+    # TF_train(epoch, lr, nTF, frag_len, train_loader, val_loader, output_folder)
+    model = TFNet(n_TF=nTF, frag_length=frag_len)
+    trainer = pl.Trainer(max_epochs=epoch, gpus=1)
+    trainer.fit(model, train_loader, val_loader)
 
 if __name__ == "__main__":
     main()

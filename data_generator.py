@@ -53,7 +53,7 @@ def dataset_split_loader(dataset, batch_size, val_frac, shuffle_dataset=False):
     valid_sampler = SubsetRandomSampler(val_indices)
 
     train_loader = DataLoader(dataset, batch_size=batch_size, sampler=train_sampler, shuffle=False)
-    val_loader = DataLoader(dataset, batch_size=batch_size, sampler=valid_sampler,shuffle=False)
+    val_loader = DataLoader(dataset, batch_size=batch_size, sampler=valid_sampler, shuffle=False)
 
     return train_loader, val_loader
 
