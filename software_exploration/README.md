@@ -20,7 +20,7 @@ The other component of this project is **pytorch-lightning**, which I am using t
 
 ## Example Code
 
-
+I have included the first 50 lines of the **region.txt** file from my local directory (this file is way too big for github) for testing purposes. 
 
 ## Running the Submission Script
 
