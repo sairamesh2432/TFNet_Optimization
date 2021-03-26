@@ -24,9 +24,9 @@ I have included the first 50 lines of the **region.txt** file from my local dire
 
 ## Running the Submission Script
 
-The submission script is called **run_script.sh**; here is a sample use of the code:
+The submission script is called **run_script.sh**:
 
-`sbatch run_script.sh $TRAINING_PYTHON_FILE $OUTPUT_DIRECTORY`
+`sbatch run_script.sh`
 
 Note- you will need the region.txt file in the working directory for the script to work.
 
