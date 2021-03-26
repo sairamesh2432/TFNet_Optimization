@@ -24,9 +24,13 @@ I have included the first 50 lines of the **region.txt** file from my local dire
 
 ## Running the Submission Script
 
-The submission script is called **run_script.sh**:
+The submission script for the code that makes use of Pytorch Lightning is called **run_script.sh**:
 
 `sbatch run_script.sh`
+
+The submission script for the code that makes use of base PyTorch only is called **run_unoptimized_script.sh**:
+
+`sbatch run_unoptimized_script.sh`
 
 Note- you will need the region.txt file in the working directory for the script to work.
 
