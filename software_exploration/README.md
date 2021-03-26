@@ -33,4 +33,5 @@ Note- you will need the region.txt file in the working directory for the script 
 ## References
 
 https://pytorch-lightning.readthedocs.io/en/latest/
+
 https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259
