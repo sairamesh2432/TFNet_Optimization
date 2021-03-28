@@ -10,7 +10,7 @@ module load CUDA/9.0.176 cuDNN/7.0.2-CUDA-9.0.176
 module load Python/3.6.4
 module load Anaconda/3
 
-conda activate base
-python lightning_TF_train.py -region ./region.txt -LR 0.001 -output ./third_test  # change this output to a new directory when running again
+conda activate ./envs 
+python lightning_TF_train.py -region ./region.txt -LR 0.001 -output ./third_test_${SLURM_JOB_ID} 
 
 scontrol show job $SLURM_JOB_ID
