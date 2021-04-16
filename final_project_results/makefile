@@ -3,6 +3,9 @@ all: envs
 envs: requirements.yml
 	conda env create --prefix ./envs -f requirements.yml
 
-test:
-	sbatch run_script.sh
+lightning_test:
+	sbatch run_lightning.sh
+    
+torch_test:
+	sbatch run_base_torch.sh
 
