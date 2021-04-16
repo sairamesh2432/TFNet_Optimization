@@ -1,0 +1,308 @@
+
+The following have been reloaded with a version change:
+  1) CUDA/10.1.243 => CUDA/10.0.130
+
+
+Lmod is automatically replacing "GCC/8.3.0" with "iccifort/2019.5.281".
+
+
+Lmod is automatically replacing "GCC/8.3.0" with "iccifort/2019.5.281".
+
+
+The following have been reloaded with a version change:
+  1) CUDA/10.0.130 => CUDA/10.1.243
+
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "NCCL/2.6.4"
+   Try: "module spider NCCL/2.6.4" to see how to load the module(s).
+
+
+
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "Python/3.6.4"
+   Try: "module spider Python/3.6.4" to see how to load the module(s).
+
+
+
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/6
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/6
+Fatal Python error: Segmentation fault
+
+Current thread 0x00002ade1391da00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 671 in convert
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 409 in _apply
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387 in _apply
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387 in _apply
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 673 in to
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/device_dtype_mixin.py", line 120 in to
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/core/decorators.py", line 89 in inner_fn
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 286 in model_to_device
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 261 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002b45175b7a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 261, in pre_dispatch
+    self.model_to_device()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 286, in model_to_device
+    self.model.to(self.root_device)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/core/decorators.py", line 89, in inner_fn
+    module = fn(self, *args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/device_dtype_mixin.py", line 120, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 673, in to
+    return self._apply(convert)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 409, in _apply
+    param_applied = fn(param)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 671, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: all CUDA-capable devices are busy or unavailable
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 261, in pre_dispatch
+    self.model_to_device()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 286, in model_to_device
+    self.model.to(self.root_device)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/core/decorators.py", line 89, in inner_fn
+    module = fn(self, *args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/device_dtype_mixin.py", line 120, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 673, in to
+    return self._apply(convert)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 409, in _apply
+    param_applied = fn(param)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 671, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: all CUDA-capable devices are busy or unavailable
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 261, in pre_dispatch
+    self.model_to_device()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 286, in model_to_device
+    self.model.to(self.root_device)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/core/decorators.py", line 89, in inner_fn
+    module = fn(self, *args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/device_dtype_mixin.py", line 120, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 673, in to
+    return self._apply(convert)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 409, in _apply
+    param_applied = fn(param)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 671, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: all CUDA-capable devices are busy or unavailable
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 261, in pre_dispatch
+    self.model_to_device()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 286, in model_to_device
+    self.model.to(self.root_device)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/core/decorators.py", line 89, in inner_fn
+    module = fn(self, *args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/device_dtype_mixin.py", line 120, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 673, in to
+    return self._apply(convert)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 409, in _apply
+    param_applied = fn(param)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 671, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: all CUDA-capable devices are busy or unavailable
+Fatal Python error: Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Bus error
+
+slurmstepd: error: Detected 1116 oom-kill event(s) in StepId=21234198.0 cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+srun: error: nvl-003: task 11: Out Of Memory
+Current thread 0xslurmstepd: error: Detected 11423 oom-kill event(s) in StepId=21234198.0 cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+Fatal Python error: JobId=21234198 JobName=run_script2.sh
+   UserId=rameshs5(1006700) GroupId=cmse(2362) MCS_label=N/A
+   Priority=48210 Nice=0 Account=wang-krishnan QOS=normal
+   JobState=RUNNING Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:03:24 TimeLimit=03:59:00 TimeMin=N/A
+   SubmitTime=2021-04-14T18:35:46 EligibleTime=2021-04-14T18:35:46
+   AccrueTime=2021-04-14T18:35:46
+   StartTime=2021-04-14T21:59:30 EndTime=2021-04-15T01:58:30 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-04-14T21:59:30
+   Partition=general-short AllocNode:Sid=dev-amd20-v100:258504
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nvl-[000,003]
+   BatchHost=nvl-000
+   NumNodes=2 NumCPUs=12 NumTasks=12 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=12,mem=50G,node=2,billing=7782,gres/gpu=12
+   Socks/Node=* NtasksPerN:B:S:C=6:0:*:* CoreSpec=*
+   MinCPUsNode=6 MinMemoryNode=25G MinTmpDiskNode=0
+   Features=[intel14|intel16|intel18|amr|nvf] DelayBoot=00:00:00
+   OverSubscribe=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/run_script2.sh
+   WorkDir=/mnt/ufs18/home-118/rameshs5/TFNet_Optimization
+   Comment=stdout=/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/srun_2_nodes_6_gpus.out 
+   StdErr=/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/srun_2_nodes_6_gpus.out
+   StdIn=/dev/null
+   StdOut=/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/srun_2_nodes_6_gpus.out
+   Power=
+   TresPerNode=gpu:v100:6
+   NtasksPerTRES:0
+
+slurmstepd: error: Detected 11423 oom-kill event(s) in StepId=21234198.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

@@ -1,0 +1,10 @@
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pytorch-lightning
+  - pytorch
+    

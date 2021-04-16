@@ -1,0 +1,1854 @@
+
+The following have been reloaded with a version change:
+  1) CUDA/10.1.243 => CUDA/10.0.130
+
+
+Lmod is automatically replacing "GCC/8.3.0" with "iccifort/2019.5.281".
+
+
+Lmod is automatically replacing "GCC/8.3.0" with "iccifort/2019.5.281".
+
+
+The following have been reloaded with a version change:
+  1) CUDA/10.0.130 => CUDA/10.1.243
+
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "NCCL/2.6.4"
+   Try: "module spider NCCL/2.6.4" to see how to load the module(s).
+
+
+
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "Python/3.6.4"
+   Try: "module spider Python/3.6.4" to see how to load the module(s).
+
+
+
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+GPU available: True, used: True
+TPU available: None, using: 0 TPU cores
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 2, MEMBER: 3/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+Fatal Python error: Bus error
+
+Current thread 0x00002b568e054a00 (most recent call first):
+Fatal Python error: Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/legend.py", line 33 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/axes/_axes.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/axes/_subplots.py", line 6 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/axes/__init__.py", line 1 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/projections/__init__.py", line 1 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+Thread 0x00002b4a9ab29a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Bus error
+
+Current thread 0x00002aec22bb8a00 (most recent call first):
+Current thread 0x00002b19b1547a00 (most recent call first):
+  File "<__array_function__ internals>", line 5 in concatenate
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+Current thread 0x00002adc830f5a00 (most recent call first):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "<frozen importlib._bootstrap_external>", line 1109 in exec_module
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/csgraph/__init__.py", line 186 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/__init__.py", line 240 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/__init__.py", line 20 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/base.py", line 21 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/__init__.py", line 80 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 961 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/roc_pr.py", line 2 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 9 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Current thread 0xFatal Python error: Bus error
+
+Current thread 0x00002b10d1a46a00 (most recent call first):
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+Current thread 0x00002ba5c3bc0a00 (most recent call first):
+Fatal Python error: Bus error
+
+Current thread 0x00002b05a17bca00 (most recent call first):
+  File "00002b8287e15a00 (most recent call first):
+/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "<frozen importlib._bootstrap>", line 1042Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/font_manager.py", line 973 in _json_decode
+Current thread 0x00002b9298174a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/json/decoder.py", line 353 in raw_decode
+Fatal Python error: Fatal Python error: Bus error
+
+Current thread 0x00002acee5924a00 (most recent call first):
+Current thread 0x00002b32e733ba00 (most recent call first):
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Bus error
+
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/json/decoder.py", line 337 in decode
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/json/__init__.py", line 370 in loads
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/json/__init__.py", line 293 in load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/font_manager.py", line 1013 in json_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/font_manager.py", line 1429 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/contour.py", line 16 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/colorbar.py", line 44 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/pyplot.py", line 36 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/roc_pr.py", line 3 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 9 in <module>
+Current thread 0x00002ad2ddbfca00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1101 in create_module
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+  File "<frozen importlib._bootstrap>", line 556 in module_from_spec
+  File "<frozen importlib._bootstrap>", line 657 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/image.py", line 22 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/pyplot.py", line 37 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/roc_pr.py", line 3 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 9 in <module>
+Fatal Python error: Bus error
+
+initializing ddp: GLOBAL_RANK: 3, MEMBER: 4/8
+Fatal Python error: Bus error
+
+Current thread 0x00002b56477c4a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+Fatal Python error: Bus error
+
+Current thread 0x00002af1f61e8a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "lightning_TF_train.py", line 185 in main
+  File "lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Current thread 0x00002b3aadc86a00 (most recent call first):
+Current thread 0xCurrent thread 0x00002b617e154a00 (most recent call first):
+  File Fatal Python error: "<frozen importlib._bootstrap_external>"Bus error
+
+Fatal Python error: Bus error
+
+Current thread 0x00002b8862088a00 (most recent call first):
+Fatal Python error: Bus error
+
+Thread 0x00002b67c0a41a00 (most recent call first):
+, line 1101 in create_module
+  File "<frozen importlib._bootstrap>", line 556 in module_from_spec
+  File "<frozen importlib._bootstrap>", line 657 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrThread 0x00002b23bc99ca00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error:   File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py"Bus errorFatal Python error: Bus error
+
+  File "<frozen importlib._bootstrap>", line 979 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/mpl_toolkits/mplot3d/art3d.py", line 20 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/mpl_toolkits/mplot3d/axes3d.py", line 33 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/mpl_toolkits/mplot3d/__init__.py", line 1 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/projections/__init__.py", line 4 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/figure.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/pyplot.py", line 43 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+Current thread 0x
+
+Current thread 0x00002b577cc59a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/roc_pr.py", line 3 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 9 in <module>
+  File 00002ab6246c3a00 (most recent call first):
+Fatal Python error: Bus error
+
+ap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/linalg/dsolve/linsolve.py", line 11 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/linalg/dsolve/__init__.py", line 58 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/linalg/__init__.py", line 112 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/optimize/_numdiff.py", line 6 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/optimize/optimize.py", line 36 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/optimize/__init__.py", line 387 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/_distn_infrastructure.py", line 23 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/distributions.py", line 8 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/stats.py", line 180 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap_external>", line 661 in spec_from_file_location
+Fatal Python error: Bus error
+
+Current thread 0x00002ae7c6a86a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+Thread 0xFatal Python error: Bus error
+
+  File "<frozen importlib._bootstrap_external>", line 1428 in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1459 in find_spec
+00002b21b9716a00 (most recent call first):
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/common.py"Current thread 0x00002aea3aaf8a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/base.py", line , line 1506 in is_extension_array_dtype
+  File , line 00002b61af43fa00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "427 in find
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+Fatal Python error: Bus error
+
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/common.py", line 1506 in is_extension_array_dtype
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+211 in _store_based_barrier
+Fatal Python error: Current thread 0x00002b74ebba6a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "<frozen importlib._bootstrap_external>", line 1314 in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1342 in find_spec
+  File "<frozen importlib._bootstrap>", line 914 in _find_spec
+  File "<frozen importlib._bootstrap>", line 971 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py"  File "<frozen importlib._bootstrap_external>", line 1101 in create_module
+  File "<frozen importlib._bootstrap>", line 556 in module_from_spec
+  File "<frozen importlib._bootstrap>", line 657 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/google/protobuf/descriptor.py", line 48 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/tensorboard/compat/proto/event_pb2.py", line 8 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/utils/tensorboard/writer.py", line 9 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/utils/tensorboard/__init__.py", line 8 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+Thread 0x00002ac09828ba00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/__init__.py", line 388 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/fixes.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/validation.py", line 25 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/class_weight.py", line 7 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/__init__.py", line 23 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/base.py", line 21 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  ...
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/loggers/tensorboard.py", line 24 in , line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line Segmentation fault
+
+Thread 0x00002b74e5897a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/__init__.py", line 107 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+<module>
+500 in init_process_group
+  File "<frozen importlib._bootstrap>", line 961 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/roc_pr.py", line 3 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 9 in <module>
+  File   File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/loggers/__init__.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 30 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/__init__.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 961 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/callbacks/swa.py", line 26 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/callbacks/__init__.py", line 25 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/__init__.py", line 63 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_network_model.py", line 2 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+"/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 8 in <module>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "lightning_TF_train.py", line 185 in main
+  File "lightning_TF_train.py", line 191 in <module>
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 5, MEMBER: 6/8
+Fatal Python error: Segmentation fault
+
+Thread 0x00002ba50020ba00 (most recent call first):
+Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Fatal Python error: Segmentation fault
+
+Current thread 0xFatal Python error: Segmentation fault
+
+Current thread 0x00002abd50f7ba00 (most recent call first):
+Fatal Python error: Bus error
+
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Current thread 0x00002b6dde6c6a00 (most recent call first):
+  File "<frozen importlib._bootstrap_external>", line 93 in _path_is_mode_type
+  File "<frozen importlib._bootstrap_external>", line 101 in _path_isfile
+  File "<frozen importlib._bootstrap_external>", line 1458 in find_spec
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2191 in _handle_ns
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2290 in fixup_namespace_packages
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2777 in activate
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3265 in <genexpr>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3264 in _initialize_master_working_set
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3222 in _call_aside
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3239 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/imports.py", line 21 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/apply_func.py", line 25 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/__init__.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+Fatal Python error: Bus error
+
+Current thread 0x00002b538cb0fa00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2896 in insert_on
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/utils.py", line 18 in <module>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2775 in activate
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3265 in <genexpr>
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3264 in _initialize_master_working_set
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3222 in _call_aside
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/helpers.py", line 19 in <module>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3239 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/functional/accuracy.py", line 18 in <module>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/imports.py", line 21 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/apply_func.py", line 25 in <module>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/functional/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/__init__.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 961 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+Current thread 0x00002b25c1279a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/accuracy.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/utils.py", line 18 in <module>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/helpers.py", line 19 in <module>
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/functional/accuracy.py", line 18 in <module>
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/functional/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/__init__.py", line 14 in <moduFatal Python error: Bus error
+
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+Current thread 0x00002b51a0462a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "<frozen importlib._bootstrap>", line 961 in _find_and_load_unlocked
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/accuracy.py", line 18 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/__init__.py", line 62 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_network_model.py", line 2 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+le>
+Fatal Python error: Bus error
+
+Current thread 0x00002b5c0253da00 (most recent call first):
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+Fatal Python error: Bus error
+
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/__init__.py", line 62 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_network_model.py", line 2 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 8 in <module>
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 8 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Current thread 0x00002abbeeb0ea00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 169 in _call_children_scripts
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 92 in setup
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/parallel.py", line 68 in connect
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 327 in connect_training_type_plugin
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 68 in setup
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/gpu.py", line 30 in setup
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 459 in fit
+  File "lightning_TF_train.py", line 185 in main
+  File "lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002ac980c35a00 (most recent call first):
+  File "<frozen importlib._bootstrap_external>"Fatal Python error: Bus error
+
+Current thread 0x00002b9fa9b9ca00 (most recent call first):
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002ad72c7e6a00 (most recent call first):
+Fatal Python error: Bus error
+
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+, line 87 in _path_stat
+  File "<frozen importlib._bootstrap_external>", line 93 in _path_is_mode_type
+  File "<frozen importlib._bootstrap_external>", line 101 in _path_isfile
+  File "<frozen importlib._bootstrap_external>", line 1458 in find_spec
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2191 in _handle_ns
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2290 in fixup_namespace_packages
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 2777 in activate
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3265 in <genexpr>
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3264 in _initialize_master_working_set
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3222 in _call_aside
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pkg_resources/__init__.py", line 3239 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/imports.py", line 21 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/apply_func.py", line 25 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/utilities/__init__.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/utils.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/helpers.py", line 19 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/functional/accuracy.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/functional/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+Fatal Python error: Bus error
+
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+Current thread 0x00002b6742425a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/generic.py", line 12 in _check
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/base.py", line 282 in is_dtype
+  File "<frozen importlib._bootstrap>", line 961 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/common.py", line 563 in is_categorical_dtype
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/accuracy.py", line 18 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/classification/__init__.py", line 14 in <module>
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+Fatal Python error: Bus error
+
+Current thread 0x00002b79a9e2aa00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 108 in release
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/metrics/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 208 in _lock_unlock_module
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1101 in create_module
+  File "<frozen importlib._bootstrap>", line 556 in module_from_spec
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 657 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/__init__.py", line 62 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/linalg/linalg.py", line 33 in <module>
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_network_model.py", line 2 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/linalg/__init__.py", line 73 in <module>
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 8 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/matrixlib/defmatrix.py", line 11 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/matrixlib/__init__.py", line 4 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/lib/index_tricks.py", line 11 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/lib/__init__.py", line 25 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/__init__.py", line 143 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 3 in <module>
+Current thread 0x00002b3cd300ea00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 904 in _find_spec
+  File "<frozen importlib._bootstrap>", line 971 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/hmac.py", line 9 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/secrets.py", line 19 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1109 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1109 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/random/_pickle.py", line 1 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/random/__init__.py", line 179 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/numpy/__init__.py", line 151 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 3 in <module>
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+Fatal Python error: Bus error
+
+Current thread 0x00002b4286ddca00 (most recent call first):
+  File "<string>", line Fatal Python error: Bus error
+
+Current thread 0x00002af949adda00 (most recent call first):
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/generic.py", line 12 in _check
+Fatal Python error: Bus error
+
+Current thread 0x00002b0f8e296a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/collections/__init__.py", line 341 in namedtuple
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py", line 1847 in _asarray_compat
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py", line 1865 in _stack_arrays
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py", line 1835 in _multi_blockify
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py", line 1753 in form_blocks
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py", line 1683 in create_block_manager_from_arrays
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 93 in arrays_to_mgr
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 283 in init_dict
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 468 in __init__
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1201 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/dviread.py", line 786 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/textpath.py", line 8 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/text.py", line 16 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/contour.py", line 17 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/colorbar.py", line 44 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/matplotlib/pyplot.py", line 36 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/roc_pr.py", line 3 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 9 in <module>
+Fatal Python error: Segmentation fault
+
+Current thread 0x00002af4d397aa00 (most recent call first):
+Fatal Python error: Bus error
+
+  File Fatal Python error: Bus error
+
+Current thread 0x00002ac44aa8fa00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1101 in create_module
+  File "<frozen importlib._bootstrap>", line 556 in module_from_spec
+  File "<frozen importlib._bootstrap>", line 657 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/linalg/isolve/iterative.py", line 8 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/linalg/isolve/__init__.py", line 4 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/sparse/linalg/__init__.py", line 111 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/optimize/_numdiff.py", line 6 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/optimize/optimize.py", line 36 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/optimize/__init__.py", line 387 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/_distn_infrastructure.py", line 23 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/distributions.py", line 8 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1042 in _handle_fromlist
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/stats.py", line 180 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/scipy/stats/__init__.py", line 388 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/fixes.py", line 18 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/validation.py", line 25 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/class_weight.py", line 7 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/utils/__init__.py", line 23 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/sklearn/base.py", line 21 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  ...
+Fatal Python error: Bus error
+
+Current thread 0x00002b6db41e7a00 (most recent call first):
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/common.py", line 190 in <lambda>
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/common.py", line 1619 in _is_dtype_type
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/core/dtypes/common.py", line 747 in is_integer_dtype
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002ae3056dba00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 69 in setup
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/gpu.py", line 30 in setup
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 459 in fit
+  File "lightning_TF_train.py", line 185 in main
+  File "lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002b9af11c1a00 (most recent call first):
+Fatal Python error: Bus error
+
+Current thread 0x00002ac7c6adfa00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002adb00a43a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "lightning_TF_train.py", line 185 in main
+  File "lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002b2fe5db3a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line Fatal Python error: Bus error
+
+Current thread 0x00002b18d5565a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Current thread 0x00002b2eed840a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+_env_rendezvous_handler
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py"Current thread 0x00002b417123aa00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distribute, line 240 in d_c10d.pypre_dispatch
+"  File , line "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+"  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Fatal Python error: Bus error
+
+Current thread 0x00002b5a5a2d8a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+Thread 0x00002b5d64935a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201 in _store_based_barrier
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002b035cf11a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+Fatal Python error: Bus error
+
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223 in init_ddp_connection
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524 in pre_dispatch
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495 in fit
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Current thread 0x00002b6089570a00 (most recent call first):
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1101 in create_module
+  File "<frozen importlib._bootstrap>", line 556 in module_from_spec
+  File "<frozen importlib._bootstrap>", line 657 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/__init__.py", line 196 in <module>
+  File "<frozen importlib._bootstrap>", line 219 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 783 in exec_module
+  File "<frozen importlib._bootstrap>", line 671 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 975 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 991 in _find_and_load
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 4 in <module>
+Fatal Python error: Bus error
+
+Current thread 0x00002b3af4236a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500 in init_process_group
+Fatal Python error: Fatal Python error: Bus error
+
+Thread 0x00002afeace03a00 (most recent call first):
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190 in _env_rendezvous_handler
+Fatal Python error: Bus error
+
+  File "<frozen importlib._bootstrap_external>"initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/8
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+Fatal Python error: Segmentation fault
+
+Current thread 0x00002aea7fae2a00 (most recent call first):
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 2145 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 1186 in read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 458 in _read
+  File "/mnt/home/rameshs5/.local/lib/python3.8/site-packages/pandas/io/parsers.py", line 686 in read_csv
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/data_generator.py", line 70 in __init__
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 172 in main
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191 in <module>
+Fatal Python error: Bus error
+
+slurmstepd: error: Detected 1307 oom-kill event(s) in StepId=21234392.0 cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+srun: error: nvl-000: task 0: Out Of Memory
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+  File "Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+  File Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+Current thread 0x00002ace5d117a00Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525, in init_process_group
+    _store_based_barrier(rank, store, timeout)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201, in _store_based_barrier
+    worker_count = store.add(store_key, 0)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525, in init_process_group
+    _store_based_barrier(rank, store, timeout)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201, in _store_based_barrier
+    worker_count = store.add(store_key, 0)
+RuntimeError: Connection reset by peer
+initializing ddp: GLOBAL_RANK: 4, MEMBER: 5/8
+slurmstepd: error: Detected 47352 oom-kill event(s) in StepId=21234392.0 cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+Fatal Python error: Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 500, in init_process_group
+    store, rank, world_size = next(rendezvous_iterator)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/rendezvous.py", line 190, in _env_rendezvous_handler
+    store = TCPStore(master_addr, master_port, world_size, start_daemon, timeout)
+RuntimeError: Connection reset by peer
+Fatal Python error: Bus errorFatal Python error: Fatal Python error: Fatal Python error:   File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py"srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 21234392 ON nvl-000 CANCELLED AT 2021-04-14T21:59:24 ***
+slurmstepd: error: *** STEP 21234392.0 ON nvl-000 CANCELLED AT 2021-04-14T21:59:24 ***
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525, in init_process_group
+    _store_based_barrier(rank, store, timeout)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201, in _store_based_barrier
+    worker_count = store.add(store_key, 0)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 525, in init_process_group
+    _store_based_barrier(rank, store, timeout)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/torch/distributed/distributed_c10d.py", line 201, in _store_based_barrier
+    worker_count = store.add(store_key, 0)
+RuntimeError: Connection reset by peer
+Traceback (most recent call last):
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 191, in <module>
+    main(args)
+  File "/mnt/ufs18/home-118/rameshs5/TFNet_Optimization/lightning_TF_train.py", line 185, in main
+    trainer.fit(model, train_loader, val_loader)
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 495, in fit
+    self.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 524, in pre_dispatch
+    self.accelerator.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/accelerators/accelerator.py", line 83, in pre_dispatch
+    self.training_type_plugin.pre_dispatch()
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 240, in pre_dispatch
+    self.init_ddp_connection(self.global_rank, self.world_size)
+slurmstepd: error: Detected 1307 oom-kill event(s) in StepId=21234392.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+  File "/mnt/home/rameshs5/anaconda3/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 223, in init_ddp_connection
+    torch_distrib.init_process_group(self.torch_distributed_backend, rank=global_rank, world_size=world_size)
