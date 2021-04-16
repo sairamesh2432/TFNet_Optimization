@@ -20,7 +20,7 @@ def parse_args():
     parser.add_argument('-region', type=str, required=True, help="path to the genomic region & label")
     parser.add_argument('-LR', type=float, required=True, help="learning rate")
     parser.add_argument('-output', type=str, required=True, help="path to the output folder")
-    parser.add_argument('-ref', type=str, required=False, help="path to the reference genome")
+    # parser.add_argument('-ref', type=str, required=False, help="path to the reference genome")
     args = parser.parse_args()
     return args
 
@@ -162,8 +162,8 @@ def main(args):
     region_path = args.region
     lr = args.LR
     output_folder = args.output
-    full_ref_path = "/mnt/research/compbio/wanglab/jiaxin/proj1_3d_eqtl/data/sequence/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa"
-    ref_path = full_ref_path if args.ref is None else args.ref
+    ref_path = "/mnt/research/compbio/wanglab/jiaxin/proj1_3d_eqtl/data/sequence/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa"
+    #ref_path = full_ref_path if args.ref is None else args.ref
     batch = 100
     epoch = 200
 
